@@ -1,3 +1,15 @@
+### 6.17.3
+* Update to Appsflyer SDK 6.17.3.
+
+### 6.17.2
+* Update to Appsflyer SDK 6.17.2.
+
+### 6.15.1
+* Update to Appsflyer SDK 6.15.1.
+
+### 6.14.3
+* Update to Appsflyer SDK 6.14.3.
+
 ### 6.13.1
 * Update to Appsflyer SDK 6.13.1.
 
